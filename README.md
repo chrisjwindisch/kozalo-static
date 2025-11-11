@@ -1,0 +1,1 @@
+# kozalo-static
